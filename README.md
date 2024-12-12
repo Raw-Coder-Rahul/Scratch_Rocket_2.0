@@ -8,4 +8,4 @@ click this link-
 "https://scratch.mit.edu/projects/editor/?tutorial=getStarted"
 than,
 File->Load from your computer->open
-*In Load from your computer you open my this file
+*In Load from your computer you open my this file "Scratch Project(2)(1).sb3"
